@@ -2,7 +2,7 @@
 Xilly Game Mode
 Absolute Focus. Zero Latency.
 
-📥 Download Game Mode at Xilly.net – Get instant access + email delivery
+📥 Download Game Mode at Xilly – Get instant access + email delivery
 
 GitHub Release Discord
 
