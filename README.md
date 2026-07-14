@@ -1,4 +1,4 @@
-![image alt]([[https://tse3.mm.bing.net/th/id/OIP.QYqUZuaeNIap7moI79y5AwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://github.com/xillyservices-code/Game-Mode-Releases/blob/main/HQ_Icon_Preview.png?raw=true)](https://github.com/Xilly-Tweaks/xilly-tweak/blob/main/HQ_Icon_Preview.png?raw=true))
+![image alt](https://tse3.mm.bing.net/th/id/OIP.QYqUZuaeNIap7moI79y5AwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://github.com/xillyservices-code/Game-Mode-Releases/blob/main/HQ_Icon_Preview.png?raw=true)](https://github.com/Xilly-Tweaks/xilly-tweak/blob/main/HQ_Icon_Preview.png?raw=true)
 Xilly Game Mode
 Absolute Focus. Zero Latency.
 
