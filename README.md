@@ -1,4 +1,37 @@
-f a "tweak" requires you to delete or disable your antivirus because it needs access to system files, please be very careful. Most legitimate software—even advanced system tools—should not require you to disable your security. If a program needs to modify system files, it will usually ask for Administrator Permissions (via a User Account Control prompt), but it should not require you to turn off your antivirus.
+![image alt]([https://tse3.mm.bing.net/th/id/OIP.QYqUZuaeNIap7moI79y5AwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3](https://github.com/xillyservices-code/Game-Mode-Releases/blob/main/HQ_Icon_Preview.png?raw=true))
+Xilly Game Mode
+Absolute Focus. Zero Latency.
 
-If you disable your antivirus, you leave your computer completely vulnerable to other threats that might be hidden within that same "tweak." Always ensure you trust the source of the file before proceeding.
-![image alt](https://tse3.mm.bing.net/th/id/OIP.QYqUZuaeNIap7moI79y5AwHaEK?r=0&rs=1&pid=ImgDetMain&o=7&rm=3)
+📥 Download Game Mode at Xilly.net – Get instant access + email delivery
+
+GitHub Release Discord
+
+Xilly Game Mode is a competitive-grade optimization utility designed to instantly reallocate your PC's resources for maximum gaming performance. It eliminates micro-stutters, reduces input latency, and ensures your hardware delivers every frame it's capable of.
+
+Note
+
+Safety First: All changes made by Xilly Game Mode are fully reversible. Simply click "Deactivate" or exit the application to return your system to its default state.
+
+⚡ Key Features
+Intelligent Process Isolation: Automatically detects improved power states and suspends non-essential background applications (like UWP apps) that drain CPU cycles, ensuring your game gets 100% of your processor's attention.
+Shell Reinvigoration ("The Snap"): Temporarily refreshes the Windows Explorer shell to clear accumulated memory leaks and UI lag, providing a clean slate for your gaming session.
+Zero-Overhead UI: Built with a custom, lightweight engine that consumes 0% CPU and minimal RAM while running, so the tool itself never becomes the bottleneck.
+Competitive Power Tuning: Unlocks and applies hidden Windows power plans designed for high-performance computing, forcing your CPU to maintain stable clock speeds.
+Background Service Silencing: Temporarily halts telemetry, search indexing, and other non-critical services that cause random disk usage spikes.
+🚀 How to Use
+Download: Grab the latest release from the Releases Page.
+Launch: Run Xilly Game Mode.exe (Administrator privileges recommended for full optimization).
+Activate: Click the big "Activate" button.
+Your screen may flicker briefly as the shell refreshes.
+Background apps will be silenced.
+Game: Launch your favorite title and enjoy smoother performance.
+Restore: When finished, click "Deactivate" to bring everything back to normal.
+🛠️ Support & Optimization
+Something not running right? If a specific game or app struggles with Game Mode, simply deactivate it.
+
+Want to check your specs? We've included a handy tool to help you get advice.
+
+Scroll to the bottom of the app.
+Click the "Copy Specs" button.
+Join our Discord Community.
+Paste your specs in the #specs-review channel for a free review by our community and optimizers.
